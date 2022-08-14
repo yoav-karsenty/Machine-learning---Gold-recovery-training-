@@ -8,4 +8,4 @@ In Order to do that, I need to:
 # Demonstrated Skills :
 1. Data cleaning and preparation 
 2. Data visualisation 
-3 Model Training 
+3. Model Training 
