@@ -1,0 +1,2 @@
+# Machine-learning---Gold-recovery-training-
+In this project, My task is to prepare a prototype of a machine learning model for Zyfra. The company develops efficiency solutions for heavy industry. The model should predict the amount of gold recovered from gold ore. I have the data on extraction and purification. The model will help to optimize the production and eliminate unprofitable parameters. In Order to do that, I need to:  Prepare the data; Perform data analysis; Develop and train a model.
